@@ -8,3 +8,7 @@ Dica: você pode dar um "fork" no repositório disponibilizado pela expert para 
 ### Links Úteis
 <a href="https://github.com/SpruceGabriela/instagram-dio"> Repositório no GitHub </a> (implementação de referência)
 
+### Telas
+
+<img src="animegram/img/tela-grande.png">
+<img src="animegram/img/tela-pequena.png">
